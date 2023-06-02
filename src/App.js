@@ -94,7 +94,7 @@ const App = () => {
                 />
                 <Routes>
                     <Route
-                        path="/"
+                        path="/REACT-TASK-TRACKER/"
                         element={
                             <>
                                 {showAddTask && <AddTask onAdd={addTask} />}
@@ -110,7 +110,10 @@ const App = () => {
                             </>
                         }
                     />
-                    <Route path="/about" element={<About />} />
+                    <Route
+                        path="/REACT-TASK-TRACKER/about"
+                        element={<About />}
+                    />
                 </Routes>
                 <Footer />
             </div>
