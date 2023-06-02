@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/REACT-TASK-TRACKER/static/css/main.0bd0d7d1.css",
-    "main.js": "/REACT-TASK-TRACKER/static/js/main.fe922b9f.js",
+    "main.js": "/REACT-TASK-TRACKER/static/js/main.39d1736f.js",
     "index.html": "/REACT-TASK-TRACKER/index.html",
     "main.0bd0d7d1.css.map": "/REACT-TASK-TRACKER/static/css/main.0bd0d7d1.css.map",
-    "main.fe922b9f.js.map": "/REACT-TASK-TRACKER/static/js/main.fe922b9f.js.map"
+    "main.39d1736f.js.map": "/REACT-TASK-TRACKER/static/js/main.39d1736f.js.map"
   },
   "entrypoints": [
     "static/css/main.0bd0d7d1.css",
-    "static/js/main.fe922b9f.js"
+    "static/js/main.39d1736f.js"
   ]
 }
