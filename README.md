@@ -1,7 +1,3 @@
-# REACT TASK TRACKER
-
-Demo: https://zaremaharachik.github.io/REACT-TASK-TRACKER/
-
 # React Task Tracker
 
 **Live Demo on Render:** https://zaremaharachik.github.io/REACT-TASK-TRACKER/
