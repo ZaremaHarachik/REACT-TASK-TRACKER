@@ -26,3 +26,9 @@ This is a simple task-tracking web app built with React. You can add tasks, dele
 ```bash
 git clone https://github.com/ZaremaHarachik/REACT-TASK-TRACKER.git
 
+Author
+Zarema Kharachyk
+
+LinkedIn
+
+
