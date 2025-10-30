@@ -4,7 +4,7 @@ Demo: https://zaremaharachik.github.io/REACT-TASK-TRACKER/
 
 # React Task Tracker
 
-**Demo:** [Live Demo on Render]([)](https://zaremaharachik.github.io/REACT-TASK-TRACKER/)
+**Live Demo on Render:** https://zaremaharachik.github.io/REACT-TASK-TRACKER/
 
 **Author:** Zarema Harachik
 
